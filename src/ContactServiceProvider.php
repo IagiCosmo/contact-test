@@ -1,6 +1,6 @@
 <?php
 
-namespace Cosmo\Contact; 
+namespace CosmoIagica\Contact; 
 
 use Illuminate\Support\ServiceProvider;
 

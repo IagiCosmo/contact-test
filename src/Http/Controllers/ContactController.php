@@ -1,6 +1,6 @@
 <?php
 
-namespace Cosmo\Contact\Http\Controllers;
+namespace CosmoIagica\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 
