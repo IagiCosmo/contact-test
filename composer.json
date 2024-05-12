@@ -1,0 +1,13 @@
+{
+    "name": "cosmo/contact",
+    "description": "Test package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cosmo\\Contact\\": "src/"
+        }
+    }
+}
