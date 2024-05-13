@@ -9,5 +9,10 @@
         "psr-4": {
             "CosmoIagica\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "providers": [
+            "CosmoIagica\\Contact\\ContactServiceProvider"
+        ]
     }
 }
