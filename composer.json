@@ -11,8 +11,10 @@
         }
     },
     "extra": {
-        "providers": [
-            "CosmoIagica\\Contact\\ContactServiceProvider"
-        ]
+        "laravel": {
+            "providers": [
+                "CosmoIagica\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
